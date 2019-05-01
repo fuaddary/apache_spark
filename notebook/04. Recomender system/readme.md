@@ -1,4 +1,4 @@
-# ANIME RECOMENDER SYSTEM
+# ANIME RECOMMENDER SYSTEM
 
 Sebuah aplikasi REST API yang berguna untuk membuat rekomendasi dari anime. Aplikasi dibangun menggunakan algoritma ALS pyspark yang di serve sebagai API mengguakan flask.
 
